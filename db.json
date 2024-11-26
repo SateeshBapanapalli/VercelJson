@@ -1,0 +1,7 @@
+{
+    "posts": [
+      { "id": 1, "title": "Hello World", "author": "Admin" },
+      { "id": 2, "title": "Vercel Deployment", "author": "Vercel" }
+    ]
+  }
+  
